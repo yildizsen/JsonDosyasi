@@ -1,0 +1,28 @@
+{
+    "personeller": [
+        {
+            "ad": "Ayþe",
+            "soyad": "Öz",
+            "bolum": "Yazýlým Geliþtirme",
+            "maas": "2950",
+            "yas": "24",
+            "cinsiyet": "k"
+        },
+	{
+            "ad": "Ahmet Mert",
+            "soyad": "Þafak",
+            "bolum": "Mobil Geliþtirme",
+            "maas": "3150",
+            "yas": "26",
+            "cinsiyet": "e"
+        },
+	{
+            "ad": "Elif",
+            "soyad": "Ay",
+            "bolum": "Proje Yöneticisi",
+            "maas": "3700",
+            "yas": "24",
+            "cinsiyet": "k"
+        }
+     ]
+}
